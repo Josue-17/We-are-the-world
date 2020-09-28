@@ -1,0 +1,61 @@
+
+body{
+    background:rgb(92, 161, 189);
+}
+.principal{
+    background:skyblue;
+    color:black;
+    text-align:center;
+}
+.dos{
+    background:skyblue;
+    color:black;
+    text-align:center;
+    padding: 200px 50px;
+    margin: 50px 100px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    margin-left:200px;
+}
+.header{
+    background:rgb(92, 161, 189);
+    display: flex;
+    height: 90px;
+
+}
+a{
+    padding: 0px 10px;
+
+}
+.tres{
+    background-color: skyblue;
+    color: black;
+    text-align: center;
+}
+.cuatro{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.container1{
+    display: flex;
+    justify-content: space-between;
+}
+.container2{
+    text-align: center;
+    background: rgb(17, 99, 146);
+    height: 30px;
+    margin-top: 5px;
+}
+.container1 ul{
+    display: list-item;
+}
+.redes{
+    text-align: center;
+}
+.redes{
+    background-color: blue;
+    color: black;
+}
