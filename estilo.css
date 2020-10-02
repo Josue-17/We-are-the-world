@@ -3,13 +3,13 @@ body{
     background:rgb(92, 161, 189);
 }
 .principal{
-    background:skyblue;
+    background:rgb(92, 161, 189);
     color:black;
     text-align:center;
 }
 .dos{
-    background:skyblue;
-    color:black;
+    background:rgb(92, 161, 189);
+    color:blackblue;
     text-align:center;
     padding: 200px 50px;
     margin: 50px 100px;
@@ -20,7 +20,7 @@ ul{
     margin-left:200px;
 }
 .header{
-    background:rgb(92, 161, 189);
+    background:skyblue;
     display: flex;
     height: 90px;
 
@@ -30,7 +30,7 @@ a{
 
 }
 .tres{
-    background-color: skyblue;
+    background-color:rgb(92, 161, 189) ;
     color: black;
     text-align: center;
 }
@@ -45,7 +45,7 @@ a{
 }
 .container2{
     text-align: center;
-    background: rgb(17, 99, 146);
+    background: skyblue;
     height: 30px;
     margin-top: 5px;
 }
@@ -56,6 +56,9 @@ a{
     text-align: center;
 }
 .redes{
-    background-color:rgb(17, 99, 146) ;
+    background-color:skyblue ;
     color: black;
+}
+footer{
+    background-color:skyblue ;
 }
