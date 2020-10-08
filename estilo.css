@@ -30,15 +30,13 @@ ul{
     text-align: center;
 }
 a{
-    padding: 0px 10px;
+    padding: 0px 20px;
 
 }
 .tres{
     background-color:rgb(255, 0, 212) ;
     color: black;
     text-align: center;
-    padding: 200px 50px;
-    margin: 50px 100px;
 }
 .cuatro{
     background-color: black;
