@@ -1,14 +1,14 @@
 
 body{
-    background:rgb(92, 161, 189);
+    background:black;
 }
 .principal{
-    background:rgb(92, 161, 189);
+    background:rgb(255, 0, 0);
     color:black;
     text-align:center;
 }
 .dos{
-    background:rgb(92, 161, 189);
+    background:rgb(117, 255, 4);
     color:blackblue;
     text-align:center;
     padding: 200px 50px;
@@ -20,19 +20,25 @@ ul{
     margin-left:200px;
 }
 .header{
-    background:skyblue;
+    background:black;
     display: flex;
     height: 90px;
 
+}
+.logo{
+    background-color: black;
+    text-align: center;
 }
 a{
     padding: 0px 10px;
 
 }
 .tres{
-    background-color:rgb(92, 161, 189) ;
+    background-color:rgb(255, 0, 212) ;
     color: black;
     text-align: center;
+    padding: 200px 50px;
+    margin: 50px 100px;
 }
 .cuatro{
     background-color: black;
@@ -45,7 +51,7 @@ a{
 }
 .container2{
     text-align: center;
-    background: skyblue;
+    background: rgb(255, 0, 255);
     height: 30px;
     margin-top: 5px;
 }
@@ -56,9 +62,14 @@ a{
     text-align: center;
 }
 .redes{
-    background-color:skyblue ;
+    background-color:yellow ;
     color: black;
 }
 footer{
-    background-color:skyblue ;
+    background-color:yellow ;
+}
+.separador{
+    background: black;
+    color: black;
+
 }
